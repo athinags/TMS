@@ -1,8 +1,77 @@
  • Quais são os principais vilões nessas histórias?
-  erros de design de sistema, infraestrutura não atualizada, erro humano e ataques cibernéticos avançados, todos mostrando falta de planejamento proativo e/ou de resposta rápida a incidentes. 
+  Erros de design de sistema, infraestrutura não atualizada, erro humano e ataques cibernéticos avançados, todos mostrando falta de planejamento proativo e/ou de resposta rápida a incidentes.
+
  • O que poderia ser feito para evitar tais problemas?
   Melhor planejamento, sistemas mais resilientes contra possíveis falhas, treinamento adequado da equipe de desenvolvimento e manutenção, políticas rígidas de segurança e monitoramento contínuo.
+
  • Como você avalia a qualidade desses softwares?
-  Apesar d
+  Apesar de serem softwares avançados, a maioria deles não se adequa a demanda moderna de serviços e a alta escalabilidade.
+
  • Qual é a relação entre os casos anteriores?
+ Por se tratarem de sistemas críticos, uma falha pode impactar amplamente organizações e usuários. Akém disso, todos os casos mostraram a necessidade de estratégias para mitigar ao máximo os riscos.
+
  • Quais foram os impactos?
+ Os impactos incluiram prejuízos financeiros, interrupção de serviços importantes, perda da confiabilidade no serviço oferecido e danos a reputação das empresas envolvidas.
+
+------------------------------------------------------------------------------------------------
+
+• Quais são as características comuns a esses softwares?
+ As características comuns incluem interface confusa, baixa estabilidade e desempenho, ausência de suporte ao usuário, deploys que causam mais bugs e não ouvir o usuário.
+
+• Quais aspectos definem as questões de qualidade?
+Usabilidade, confiabilidade, desempenho, manuteniblidade, segurança e compatibilidade.
+
+• O que poderia ser feito para melhorar?
+Melhorar a qualidade dos testes antes de lançar atualizações e o treinamento da equipe envolvida, ouvir o feedback dos usuários, investir em uma iterface mais simples, fácil e intuitiva e revisões periódicas.
+
+• Onde os pontos falhos poderiam ser corrigidos?
+resposta na primeira pergunta.
+
+------------------------------------------------------------------------------------------------
+
+• Compare as visões de Pressman e Hirama sobre Qualidade de
+Software. O que há de comum? O que há de diferente?
+ Pressman define qualidade de software como um conjunto de características tornem o produto útil e que forneça valor mensurável para aqueles que o produzem e aqueles que o utilizam. Já Hirama define a qualidade de software baseada nas expectativas dos stakeholders. Ambos reconhecem que a qualidade vai além de requisitos técnicos, a satisfação do usuário e usabilidade estão entre os pilares de qualidade. Entretanto, enquanto Pressman foca mais no processo, Hirama tem uma visão mais ampla, abordando tambpem o impacto do software no negócio e na organização.
+
+• Tente definir com suas palavras o conceito de Qualidade de
+Software com base no que foi visto;
+ A qualidade do software pode ser medida de acordo com características como qualidade da interface e comunicação com o usuário, desempenho, confiabilidade, usabilidade e manutenibilidade, além de promover valor ao negócio inserido e se adequar ao ambiente ao qual será utilizado. 
+
+• Na prática, como os aspectos vistos podem contribuir para:
+1. Avaliar a qualidade de um software existente?
+ Avaliar a experiência do usuário, a adequação aos requisitos, sua estabilidade, manutenibilidade e segurança oferecida.
+
+2. Construir um novo software com qualidade?
+ Focar em um planejamento eficiente, monitorando constantemente para facilitar a correção de bugs e ouvir o feedback dos usuários.
+
+------------------------------------------------------------------------------------------------
+
+1. Como as normas definem os aspectos de qualidade enumerados
+anteriormente?
+ A ISO/IEC 12207 define padrões para processos ao longo do ciclo de vida, assegurando que as etapas de desenvolvimento, manutenção e entrega sigam boas práticas estruturadas. A ISO/IEC 90003 adapta os princípios de gerenciamento da qualidade da ISO 9001 para o contexto do software, garantindo conformidade, documentação e eficiência organizacional. Já a Família SQuaRE fornece uma estrutura detalhada para qualidade de produto, com foco em requisitos, modelos, métricas e avaliação, permitindo mensurar aspectos como funcionalidade, desempenho, segurança e usabilidade.
+
+2. Monte uma tabela com a correspondência entre os termos em
+português e inglês, com suas respectivas definições.
+
+3. Considerando as diferentes versões de normas, houveram
+mudanças nessas definições? São significativas?
+
+4. Considerando as normas mais recentes, comente por que há
+diferentes categorias de normas dentro da Família SQuaRE.
+
+------------------------------------------------------------------------------------------------
+
+1. O que representam os níveis 1 ao 5 no CMMI? O que isso implica
+para as empresas?
+  Definem padrões de processo para o ciclo de vida do software e avaliam a qualidade do ciclo de vida dos processos organizacionais. No Nível 1, processos são imprevisíveis; no Nível 2, gerenciados; no Nível 3, definidos e padronizados; no Nível 4, gerenciados quantitativamente; e no Nível 5, otimizados para melhoria contínua. Empresas que atingem níveis mais altos tornam seus processos mais previsíveis, eficientes e inovadores, obtendo maior qualidade em seus produtos e serviços e competitividade no mercado.
+
+2. Responda a questão anterior, considerando o modelo MPS-BR.
+ No MPS-BR, os níveis vão de G (gerenciamento inicial de processos básicos) até A (otimização contínua), com evolução progressiva na padronização, controle e melhoria dos processos organizacionais. Empresas em níveis mais altos alcançam maior eficiência, previsibilidade e qualidade, sendo um modelo adaptado à realidade brasileira e amplamente utilizado por empresas de software.
+
+3. Como uma empresa pode se capacitar para usar um modelo de
+maturidade? Quais são os benefícios disso?
+ Uma empresa pode se capacitar investindo em treinamentos, contratando consultorias especializadas, realizando auditorias internas e adotando práticas recomendadas nos modelos de maturidade. Os benefícios incluem maior qualidade nos produtos, eficiência operacional, redução de custos, maior confiança dos clientes e melhor posicionamento competitivo.
+
+4. Pesquise por empresas que sejam certificadas em algum modelo de
+maturidade.
+ Muitas empresas brasileiras, como TOTVS e SERPRO, são certificadas em modelos como CMMI ou MPS-BR. Essas certificações refletem a maturidade de seus processos, contribuindo para reconhecimento no mercado e assegurando aos clientes que os produtos e serviços seguem padrões de alta qualidade.
